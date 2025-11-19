@@ -1,4 +1,4 @@
-<h1 align="center">I'm Nabid Zaman Nabid Zaman</h1>
+<h1 align="center">I'm Nabid Zaman</h1>
 <h3 align="center">Bsc. in Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tab-nabid&label=Profile%20views&color=0e75b6&style=flat" alt="tab-nabid" /> </p>
